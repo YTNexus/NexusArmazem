@@ -8,7 +8,7 @@ import org.bukkit.event.entity.ItemSpawnEvent;
 
 import com.intellectualcrafters.plot.api.PlotAPI;
 
-import Nexus.br.armaze.mysql.metodos;
+import Nexus.br.armazem.mysql.metodos;
 
 public class abobora implements Listener{
 

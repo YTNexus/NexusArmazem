@@ -8,7 +8,7 @@ import org.bukkit.entity.Player;
 
 import com.intellectualcrafters.plot.api.PlotAPI;
 
-import Nexus.br.armaze.mysql.metodos;
+import Nexus.br.armazem.mysql.metodos;
 
 public class comandos implements CommandExecutor {
 

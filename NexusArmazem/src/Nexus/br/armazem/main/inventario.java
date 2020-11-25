@@ -16,7 +16,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 import com.intellectualcrafters.plot.api.PlotAPI;
 
-import Nexus.br.armaze.mysql.metodos;
+import Nexus.br.armazem.mysql.metodos;
 import Nexus.br.inventarios.main.inventarioabobora;
 import Nexus.br.inventarios.main.inventariocactus;
 import Nexus.br.inventarios.main.inventariomelancia;

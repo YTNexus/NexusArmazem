@@ -6,7 +6,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.RegisteredServiceProvider;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import Nexus.br.armaze.mysql.connection;
+import Nexus.br.armazem.mysql.connection;
 import Nexus.br.inventarios.main.inventarioabobora;
 import Nexus.br.inventarios.main.inventariocactus;
 import Nexus.br.inventarios.main.inventariomelancia;
