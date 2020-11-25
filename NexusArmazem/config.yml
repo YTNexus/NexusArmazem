@@ -1,0 +1,14 @@
+# Coloque sua MySql abaixo para o plugin funcionar corretamente!
+database:
+  host: 'localhost'
+  port: 3306
+  database: 'teste'
+  user: 'root'
+  pass: '' 
+nome: 'PlotWorld'
+valores:
+  cactus: 4
+  abobora: 13
+  melancia: 6
+# permissao do bonus armazem.bonus.
+bonus: 1.1

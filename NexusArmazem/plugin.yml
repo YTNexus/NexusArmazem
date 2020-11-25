@@ -1,0 +1,6 @@
+name: NexusArmazemV2
+main: Nexus.br.armazem.main.main
+version: 1.0
+commands:
+  armazem:
+  
